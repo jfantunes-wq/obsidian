@@ -9,7 +9,8 @@ _(vazio — aguardando primeiro ingest)_
 
 ## Diretorias
 
-_(vazio — aguardando primeiro ingest)_
+- [[daf]] — Diretoria de Administração e Finanças da IPlanRio (atualizado: 2026-07-06)
+- [[dtgg]] — Diretoria Técnica de Gente e Gestão da IPlanRio (atualizado: 2026-07-06)
 
 ## Gerências
 
@@ -17,7 +18,7 @@ _(vazio — aguardando primeiro ingest)_
 
 ## Empresas Públicas
 
-_(vazio — aguardando primeiro ingest)_
+- [[iplanrio]] — Empresa Municipal de Informática da Prefeitura do Rio (atualizado: 2026-07-06)
 
 ## Projetos
 
@@ -33,7 +34,7 @@ _(vazio — aguardando primeiro ingest)_
 
 ## Conceitos
 
-_(vazio — aguardando primeiro ingest)_
+- [[acordo-de-resultados]] — instrumento de pactuação de metas estratégicas da Prefeitura do Rio (atualizado: 2026-07-06)
 
 ## Outputs
 
