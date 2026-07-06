@@ -1,7 +1,7 @@
-# Índice — Base de Conhecimento IPlanRio
+# Índice — Wiki Institucional IPlanRio
 
-> Ponto de entrada de navegação da wiki. Atualize esta página a cada ingest ou
-> ao criar/atualizar uma página. Ver `CLAUDE.md` para o workflow completo.
+> Ponto de navegação principal. Ver `CLAUDE.md` seção 5 para o formato das entradas.
+> Cada entrada: `- [[slug]] — descrição de uma linha (atualizado: AAAA-MM-DD)`
 
 ## Órgãos
 
@@ -11,11 +11,11 @@ _(vazio — aguardando primeiro ingest)_
 
 _(vazio — aguardando primeiro ingest)_
 
-## Empresas Públicas
+## Gerências
 
 _(vazio — aguardando primeiro ingest)_
 
-## Gerências
+## Empresas Públicas
 
 _(vazio — aguardando primeiro ingest)_
 
@@ -35,6 +35,6 @@ _(vazio — aguardando primeiro ingest)_
 
 _(vazio — aguardando primeiro ingest)_
 
-## Outputs recentes
+## Outputs
 
-_(vazio — aguardando primeira query arquivada)_
+_(vazio — nenhuma query arquivada ainda)_

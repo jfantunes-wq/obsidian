@@ -1,47 +1,50 @@
-# Base de Conhecimento IPlanRio
+# Wiki Institucional IPlanRio
 
-Wiki institucional persistente sobre a IPlanRio, mantida pelo Claude Code ao
-longo do tempo. Toda a lógica de como isso funciona está em `CLAUDE.md` — este
-README é só o "como usar no dia a dia".
+Base de conhecimento institucional persistente sobre a IPlanRio, mantida por um
+agente LLM (Claude Code) rodando neste diretório. Toda a lógica de funcionamento
+está detalhada em `CLAUDE.md` — este README é só o guia rápido do dia a dia.
 
 ## Estrutura
 
-- `raw/` — fontes originais (despachos, ofícios, planilhas, atas, e-mails...).
-  Nunca editar manualmente o conteúdo aqui, só adicionar/mover arquivos.
+- `raw/` — documentos, planilhas, emails/atas etc. originais. Nunca editados.
 - `wiki/` — páginas markdown organizadas por categoria (órgãos, gerências,
-  projetos, contratos, pessoas, conceitos, outputs). Compatível com Obsidian
-  (abra esta pasta, ou a pasta acima com o vault, no Obsidian).
-- `wiki/index.md` — ponto de partida para navegar a wiki.
-- `wiki/log.md` — histórico de tudo que foi feito.
+  projetos, contratos, pessoas, conceitos), mais `index.md` (navegação) e
+  `log.md` (histórico de ingests/queries).
+- `CLAUDE.md` — schema completo: convenções, templates, workflows.
 
-## Como usar
+## Como usar no dia a dia
 
-### Ingerir novas fontes
-1. Coloque o(s) arquivo(s) novo(s) na subpasta certa de `raw/` (ex.:
-   `raw/comunicacoes/` para uma ata de reunião, `raw/planilhas/` para uma
-   planilha de circuitos).
-2. Peça ao Claude Code, nesta pasta: **"faz o ingest dos arquivos novos em
-   raw/"** (ou aponte o arquivo específico). Pode soltar vários arquivos de
-   uma vez — o fluxo é otimizado para lote.
-3. O Claude vai atualizar/criar páginas em `wiki/`, atualizar `index.md` e
-   `log.md`, e te dar um resumo do que mudou pra você revisar.
+### Rodar um ingest (adicionar fontes novas)
+1. Abra o Claude Code neste diretório.
+2. Cole/aponte os arquivos novos (pode ser vários de uma vez — o sistema é
+   otimizado para lote).
+3. Peça algo como: *"ingere esses arquivos na wiki"*.
+4. O agente vai salvar os arquivos em `raw/`, atualizar/criar páginas em `wiki/`,
+   atualizar `index.md` e `log.md`, e te dar um resumo do que foi feito.
 
 ### Fazer uma pergunta
-Pergunte normalmente, ex.: **"qual o status do contrato com a Green4T?"** ou
-**"quais órgãos tiveram problema de SLA no último trimestre?"**. O Claude
-responde com base no que já está na wiki (markdown por padrão; pode pedir
-slides ou gráfico se fizer sentido pra pergunta). Respostas mais elaboradas
-costumam ser arquivadas de volta em `wiki/outputs/` — assim a próxima pergunta
-parecida já parte de um contexto mais rico.
+Pergunte normalmente, ex.: *"o que já sabemos sobre o contrato da Green4T?"* ou
+*"como está o andamento da meta da GTE?"*. O agente vai consultar `index.md`,
+abrir as páginas relevantes e responder citando as páginas usadas. Se a resposta
+for útil o suficiente para reaproveitar depois, ele vai perguntar se quer
+arquivá-la em `wiki/outputs/`.
+
+Para pedidos de apresentação, ele gera slides (Marp). Para perguntas quantitativas
+(ex.: evolução de circuitos por órgão), ele gera um gráfico.
 
 ### Rodar um lint (checagem de saúde da wiki)
-De vez em quando (ex.: mensalmente, ou quando a wiki estiver crescendo muito),
-peça: **"roda um lint na wiki"**. O Claude aponta contradições entre páginas,
-informação desatualizada, páginas órfãs, conceitos sem página própria, e
-referências cruzadas faltando — e você decide o que fazer com cada achado.
+Peça: *"roda um lint na wiki"*. O agente procura contradições entre páginas,
+informação desatualizada, páginas órfãs, conceitos sem página própria e links
+faltando — e te dá um relatório com sugestões (sem aplicar mudanças automáticas,
+exceto ajustes triviais de data).
 
-## Git
+### Ver o histórico rápido
+```
+grep "^## \[" wiki/log.md | tail -5
+```
 
-Este projeto é um repositório git próprio (separado de qualquer outro git que
-exista em pastas acima). Histórico de mudanças na wiki fica registrado nos
-commits, além do `log.md`.
+## Obsidian
+
+Abra esta pasta como vault no Obsidian. Todas as páginas têm frontmatter YAML
+compatível com Dataview e usam `[[wikilinks]]`, então o graph view e as consultas
+Dataview funcionam sem configuração extra.

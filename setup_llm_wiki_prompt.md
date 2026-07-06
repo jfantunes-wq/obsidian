@@ -86,6 +86,17 @@ Key characteristics to design around:
 1. **Folder structure**, at minimum:
    ```
    raw/
+     apresentacoes/
+     artigos/
+     assets/
+     datasets/
+     decretos/
+     imagens/
+     decretos/
+     portarias/
+     sites/
+     parcerias/	
+     diligencias/
      documentos/       # despachos, ofícios, TRs, contratos
      planilhas/         # circuit inventories, SLA/technical spreadsheets
      comunicacoes/      # emails, atas de reunião, transcripts
@@ -94,7 +105,9 @@ Key characteristics to design around:
      index.md
      log.md
      orgaos/             # pages per órgão-cliente / external stakeholder org
+     diretorias/
      gerencias/          # pages per gerência (GSA, GTE, GSC, GIT) and their scope
+     empresas_publicas/
      projetos/           # pages per initiative/project (e.g. meta GTE, circuit consolidation)
      contratos/          # pages per contract/vendor (e.g. Green4T, SERPRO, F5, etc.)
      pessoas/            # stakeholder pages (internal and external)
