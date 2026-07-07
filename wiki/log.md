@@ -83,7 +83,7 @@
     inventado a partir de títulos isolados.
   - Roster de ~45 órgãos participantes do rollout do Workspace foi registrado
     em [[workspace-prefeitura-rio]] como lista crua (acrônimos), sem criar
-    páginas [[orgao]] individuais — não há contexto suficiente por órgão
+    páginas de órgão individuais — não há contexto suficiente por órgão
     ainda.
 
 ## [2026-07-06] ingest | Organograma oficial IplanRio (Decreto Rio nº 56.627/2025)
@@ -180,7 +180,7 @@
   [[gabriel-gazola-milan]] (únicos líderes com biografia própria capturada;
   os demais ~30 líderes nomeados foram incorporados apenas à árvore
   organizacional em [[iplanrio]] e às páginas [[daf]], [[dtgg]],
-  [[presidencia]], sem página [[pessoa]] individual — teriam conteúdo thin,
+  [[presidencia]], sem página de pessoa individual — teriam conteúdo thin,
   só nome sem biografia)
 - Páginas atualizadas: [[iplanrio]] (árvore organizacional reescrita com
   líder de cada unidade; source_count 21→22), [[presidencia]] (Vice-
@@ -210,3 +210,15 @@
     Diretoria de Operações (DOP) listado na fonte é "Jorge Antunes" — mesmo
     nome do usuário do git deste repositório. Pode ser coincidência ou o
     próprio dono do projeto; não assumido/verificado na wiki.
+
+## [2026-07-06] ingest | Verificação de 2 novos arquivos (sem conteúdo novo)
+- Fontes verificadas: `raw/sites/Diretoria de Operações - DOP.md`,
+  `raw/sites/Gerência de Segurança - GDS.md`
+- Páginas criadas/atualizadas: nenhuma
+- Contradições/observações: nenhuma. `Diretoria de Operações - DOP.md` é
+  outra duplicata da mesma página "Estrutura" da intranet já ingerida em
+  [[iplanrio]]/[[presidencia]]/[[daf]]/[[dtgg]] (diff mostra 1 caractere de
+  diferença — um `[` faltando na primeira linha, artefato do clipper; corpo
+  substantivo idêntico). `Gerência de Segurança - GDS.md` é uma captura vazia
+  do clipper (só o título, sem corpo), mesmo padrão dos arquivos "Untitled"
+  anteriores. Nenhum conteúdo novo para ingerir.

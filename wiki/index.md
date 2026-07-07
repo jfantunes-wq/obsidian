@@ -36,7 +36,7 @@ _(vazio — aguardando primeiro ingest)_
 ## Pessoas
 
 - [[thiago-trabach]] — Diretor-Presidente da IPlanRio (atualizado: 2026-07-06)
-- [[fernando-ivo-pimentel-cavalcante]] — Vice-Presidente da IPlanRio (atualizado: 2026-07-06)
+- [[fernando-ivo-pimentel-cavalcante]] — Vice-Presidente de Operações da IPlanRio (atualizado: 2026-07-07)
 - [[ingrid-gomes]] — Vice-Presidente de Produtos e IA (VPIA) da IPlanRio (atualizado: 2026-07-06)
 - [[rafael-casado]] — líder da Assessoria de Comunicação Social da IPlanRio (atualizado: 2026-07-06)
 - [[debora-de-barros-augusto]] — chefe de Gabinete da Presidência da IPlanRio (atualizado: 2026-07-06)

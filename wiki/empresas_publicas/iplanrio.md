@@ -46,6 +46,8 @@ líderes nomeados a partir da página "Estrutura" da intranet
     - Gerência de Planejamento de Contratações e Gestão da Infraestrutura (GIL) — Josiane Virgulino
     - Gerência de Licitações (LIC) — Marco Antonio Leite Gonçalo
     - Centro Arquivístico (ARQ) — Thiago Felippe
+    - Escritório de Custos e Métricas Financeiras (criado em 2017, sem líder
+      informado nesta fonte)
   - **[[dtgg]]** (Diretoria Técnica de Gente e Gestão) — Iris Badaró
     - Gerência Administrativa de Pessoas (GAP) — Camilla Correia Lopes dos Santos
     - Núcleo de Apoio Operacional (NAO) — sem líder informado
@@ -230,7 +232,10 @@ Coletivo, e-PINGRIO, Processo de Gerenciamento Ágil (PGA) — documentos
 listados na página "Políticas e Normas" do site institucional (conteúdo dos
 PDFs em si não foi capturado, só os títulos/links). Também referenciado
 (sem corpo capturado): **Regulamento de Parcerias da IplanRio**
-(`raw/sites/Untitled 11.md`).
+(`raw/sites/Untitled 11.md`) — provavelmente o regramento aplicado pela
+Assessoria Especial para Parcerias (AEP, Simone Torres, ver seção "Estrutura
+organizacional" acima), embora nenhuma fonte confirme essa ligação
+explicitamente.
 
 Ver também [[pregao-eletronico]], [[ata-de-registro-de-precos]],
 [[consulta-publica]], [[dispensa-eletronica]], [[estudo-tecnico-preliminar]],

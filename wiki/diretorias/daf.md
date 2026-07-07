@@ -30,6 +30,9 @@ Unidades subordinadas e líderes:
 - Gerência de Planejamento de Contratações e Gestão da Infraestrutura (GIL) — Josiane Virgulino
 - Gerência de Licitações (LIC) — Marco Antonio Leite Gonçalo
 - Centro Arquivístico (ARQ) — Thiago Felippe
+- Escritório de Custos e Métricas Financeiras (criado em 2017, ver "Origem e
+  evolução" acima) — listado na fonte como subunidade atual, mas sem líder/
+  perfil detalhado nela
 
 ## Interações e histórico
 - **17/06/2026** — Equipe da DAF participa do "Contábil Day", evento para

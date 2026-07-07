@@ -51,8 +51,8 @@ CET-RIO, COMLURB, SMH, IVISA, SMI, RIOTUR, SMTR, SEOP, SMIT, PLANETÁRIO,
 RIOLUZ, SPM-RIO, SMTUR, SMTE, SMC, RIO-ÁGUAS, RIOFILME, SECONSERVA, SEAC-RIO,
 SEMESQV, RIO ZOO, CIDADE DAS ARTES, SMPD, JUVRIO, SEDES, SMCT, FPJ, SMAS,
 SMAC, RIOEVENTOS, GBP, CVL, RIOSAUDE, SMEL, SMPDA, FJG — lista extraída da
-fonte sem contexto individual por órgão; sem páginas [[orgao]] próprias
-criadas a partir só desses acrônimos.
+fonte sem contexto individual por órgão; sem páginas de órgão (categoria
+`wiki/orgaos/`) próprias criadas a partir só desses acrônimos.
 
 ## Envolvidos
 - [[iplanrio]] (operador/gestor do contrato via NCN)
