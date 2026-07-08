@@ -1,14 +1,17 @@
 ---
-type: "source"
-title: "Serviços de Datacenter"
-source_type: "sites"
-url: "https://iplanrio.prefeitura.rio/servicos-de-datacenter/"
+type: source
+title: Serviços de Datacenter
+source_type: sites
+url: https://iplanrio.prefeitura.rio/servicos-de-datacenter/
 published: 2022-07-05
-ingested: "2026-07-06T15:29:55-03:00"
-description: "Serviços de Datacenter O Centro de Dados da IplanRio concentra toda a conectividade das redes internas, externas, acesso à internet e o processamento de todas os sistemas e aplicações da Prefeitura. Disponibiliza inúmeras funções que viabilizam a gestão da Prefeitura e a prestação de serviços aos cidadãos. Possui infraestrutura robusta tolerante a falhas e de [...]Leia mais..."
+ingested: 2026-07-06T15:29:55-03:00
+description: Serviços de Datacenter O Centro de Dados da IplanRio concentra toda a conectividade das redes internas, externas, acesso à internet e o processamento de todas os sistemas e aplicações da Prefeitura. Disponibiliza inúmeras funções que viabilizam a gestão da Prefeitura e a prestação de serviços aos cidadãos. Possui infraestrutura robusta tolerante a falhas e de [...]Leia mais...
 created: 2026-07-06
 tags:
-  - "clippings"
+  - clippings
+  - diretoria
+  - empresa-publica
+  - projeto
 ---
 O Centro de Dados da IplanRio concentra toda a conectividade das redes internas, externas, acesso à internet e o processamento de todas os sistemas e aplicações da Prefeitura. Disponibiliza inúmeras funções que viabilizam a gestão da Prefeitura e a prestação de serviços aos cidadãos. Possui infraestrutura robusta tolerante a falhas e de recuperação de desastres com técnicos altamente qualificados para hospedar serviços críticos de diversas amplitudes.
 

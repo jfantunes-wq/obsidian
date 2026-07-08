@@ -1,14 +1,14 @@
 ---
-type: "source"
-title: "Serviços de Atendimento e Suporte ao Cliente"
-source_type: "sites"
-url: "https://iplanrio.prefeitura.rio/servicos-de-atendimento-e-suporte-ao-cliente/"
+type: source
+title: Serviços de Atendimento e Suporte ao Cliente - GSA
+source_type: sites
+url: https://iplanrio.prefeitura.rio/servicos-de-atendimento-e-suporte-ao-cliente/
 published: 2022-07-05
-ingested: "2026-07-06T15:30:25-03:00"
+ingested: 2026-07-06T15:30:25-03:00
 description: "Serviços de Atendimento e Suporte ao Cliente Serviço disponibilizado por diversos canais de atendimento (telefone, aplicativo e portal), que provê orientações e resolução de problemas em sistemas e equipamentos de informática, gestão de estações de trabalho, conexão segura por rede privada virtual (VPN) e caixa postal eletrônica.   Descrição Service Desk: Ponto único de contato [...]Leia mais..."
 created: 2026-07-06
 tags:
-  - "clippings"
+  - clippings
 ---
 Serviço disponibilizado por diversos canais de atendimento (telefone, aplicativo e portal), que provê orientações e resolução de problemas em sistemas e equipamentos de informática, gestão de estações de trabalho, conexão segura por rede privada virtual (VPN) e caixa postal eletrônica.
 

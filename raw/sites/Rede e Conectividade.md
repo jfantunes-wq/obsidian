@@ -1,14 +1,19 @@
 ---
-type: "source"
-title: "Rede e Conectividade"
-source_type: "sites"
-url: "https://iplanrio.prefeitura.rio/rede-e-conectividade/"
+type: source
+title: Rede e Conectividade
+source_type: sites
+url: https://iplanrio.prefeitura.rio/rede-e-conectividade/
 published: 2022-07-05
-ingested: "2026-07-06T15:30:10-03:00"
+ingested: 2026-07-06T15:30:10-03:00
 description: "Rede e Conectividade Serviços que viabilizam e mantêm a Prefeitura conectada ao mundo, via internet, e interliga seus órgãos e entidades por rede própria e por operadoras de telecomunicações.   Descrição Rede Própria PCRJ: Conexão de 1 Gbps em fibra ótica e por anéis óticos, com alta disponibilidade e qualidade; Administração de canal de dados [...]Leia mais..."
 created: 2026-07-06
 tags:
-  - "clippings"
+  - clippings
+  - contrato
+  - diretoria
+  - pessoa
+  - empresa-publica
+organizacao: IPlanRio
 ---
 Serviços que viabilizam e mantêm a Prefeitura conectada ao mundo, via internet, e interliga seus órgãos e entidades por rede própria e por operadoras de telecomunicações.
 

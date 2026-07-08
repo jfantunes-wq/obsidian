@@ -1,14 +1,19 @@
 ---
-type: "source"
-title: "Dispensa Eletrônica"
-source_type: "sites"
-url: "https://iplanrio.prefeitura.rio/dispensa-eletronica/"
+type: source
+title: Dispensa Eletrônica
+source_type: sites
+url: https://iplanrio.prefeitura.rio/dispensa-eletronica/
 published: 2024-09-19
-ingested: "2026-07-06T16:13:33-03:00"
+ingested: 2026-07-06T16:13:33-03:00
 description: "Dispensa Eletrônica   AVISO DE DISPENSA ELETRÔNICA Nº 91026/2024 Aquisição de materiais descartáveis, devidamente descritos, caracterizados e especificados no Termo de Referência, na forma da le, critério de julgamento de menor preço por item, Termo de Referência disponível  no https://www.gov.br/compras (UASG 986001) e no site da IPLANRIO. Maiores esclarecimentos, entrar em contato através do e-mail: cpl.iplanrio@prefeitura.rio. Data: 30/09/2024 – 09:00 às 15:00hs Local: Portal COMPRASNET [...]Leia mais..."
 created: 2026-07-06
 tags:
-  - "clippings"
+  - clippings
+  - conceito
+  - contrato
+  - diretoria
+  - empresa-publica
+organizacao: IPlanRio
 ---
 ### AVISO DE DISPENSA ELETRÔNICA Nº 513/2026
 

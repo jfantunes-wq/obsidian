@@ -9,4 +9,9 @@ description:
 created: 2026-07-06
 tags:
   - clippings
+  - conceito
+  - contrato
+  - diretoria
+  - empresa-publica
+organizacao: IPlanRio
 ---

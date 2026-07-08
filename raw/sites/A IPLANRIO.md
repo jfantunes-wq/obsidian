@@ -1,14 +1,19 @@
 ---
-type: "source"
-title: "A IPLANRIO"
-source_type: "sites"
-url: "https://iplanrio.prefeitura.rio/a-iplanrio/"
+type: source
+title: A IPLANRIO
+source_type: sites
+url: https://iplanrio.prefeitura.rio/a-iplanrio/
 published: 2023-07-18
-ingested: "2026-07-06T15:27:51-03:00"
-description: "IDENTIDADE ORGANIZACIONAL     Gestão 2021-2024   Em função da edição do Decreto Rio nº 48.340 de 01 de janeiro de 2021, que instituiu uma nova Organização Básica do Poder Executivo Municipal, mantêm vinculada à Empresa Municipal de Informática – IPLANRIO na Secretaria Municipal de Fazenda e Planejamento – SMFP. No início desta nova gestão [...]Leia mais..."
+ingested: 2026-07-06T15:27:51-03:00
+description: IDENTIDADE ORGANIZACIONAL     Gestão 2021-2024   Em função da edição do Decreto Rio nº 48.340 de 01 de janeiro de 2021, que instituiu uma nova Organização Básica do Poder Executivo Municipal, mantêm vinculada à Empresa Municipal de Informática – IPLANRIO na Secretaria Municipal de Fazenda e Planejamento – SMFP. No início desta nova gestão [...]Leia mais...
 created: 2026-07-06
 tags:
-  - "clippings"
+  - clippings
+  - conceito
+  - diretoria
+  - empresa-publica
+  - pessoa
+organizacao: IPlanRio
 ---
 ## IDENTIDADE ORGANIZACIONAL
 

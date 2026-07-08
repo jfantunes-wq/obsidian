@@ -1,14 +1,19 @@
 ---
-type: "source"
-title: "Workspace » Ambiente colaborativo que impulsiona a eficiência e melhora as condiçoes de trabalho no ecossistema digital da Prefeitura do Rio. Esse ambiente é suportado pela plataforma Google Workspace."
-source_type: "sites"
-url: "https://workspace.prefeitura.rio/"
+type: source
+title: Workspace » Ambiente colaborativo que impulsiona a eficiência e melhora as condiçoes de trabalho no ecossistema digital da Prefeitura do Rio. Esse ambiente é suportado pela plataforma Google Workspace.
+source_type: sites
+url: https://workspace.prefeitura.rio/
 published:
-ingested: "2026-07-06T15:30:38-03:00"
-description: "Plataforma Colaborativa, Contas de E-mail @prefeitura.rio, Ferramentas Colaborativas."
+ingested: 2026-07-06T15:30:38-03:00
+description: Plataforma Colaborativa, Contas de E-mail @prefeitura.rio, Ferramentas Colaborativas.
 created: 2026-07-06
 tags:
-  - "clippings"
+  - clippings
+  - contrato
+  - empresa-publica
+  - conceito
+organizacao: IPlanRio
+cssclasses:
 ---
 [![Salas de Reunião](https://workspace.prefeitura.rio/wp-content/uploads/sites/61/2025/03/salas-de-reunioes.png)](https://drive.google.com/file/d/16KzImgdxnKxbTyVnGSObHLqhgU9O3GTs/view?usp=sharing "pdf")
 

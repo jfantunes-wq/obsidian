@@ -1,14 +1,19 @@
 ---
-type: "source"
-title:
-source_type: "sites"
-url: "https://iplanet.prefeitura.rio/"
+type: source
+title: IPLANET
+source_type: sites
+url: https://iplanet.prefeitura.rio/
 published:
-ingested: "2026-07-06T15:05:28-03:00"
+ingested: 2026-07-06T15:05:28-03:00
 description:
 created: 2026-07-06
 tags:
-  - "clippings"
+  - clippings
+  - empresa-publica
+  - pessoa
+  - conceito
+  - meta
+organizacao: IPlanRio
 ---
 [![](https://iplanet.prefeitura.rio/wp-content/uploads/sites/2/2025/04/iplan_simples_azul.png)](https://iplanet.prefeitura.rio/ "Iplanet")
 

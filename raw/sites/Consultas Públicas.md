@@ -1,14 +1,19 @@
 ---
-type: "source"
-title: "Consultas Públicas"
-source_type: "sites"
-url: "https://iplanrio.prefeitura.rio/consultas-publicas/"
+type: source
+title: Consultas Públicas
+source_type: sites
+url: https://iplanrio.prefeitura.rio/consultas-publicas/
 published: 2022-07-21
-ingested: "2026-07-06T16:05:23-03:00"
+ingested: 2026-07-06T16:05:23-03:00
 description: "Consultas Públicas   CONSULTA PÚBLICA NÚMERO 002/2025 Data da realização: 21/08/2025 das 15h às 16h Sala Virtual: https://meet.google.com/dfh-jsrb-ivi A Empresa Municipal de Informática S/A- IPLANRIO, através da Diretoria de Operações, comunica que realizará reunião pública para esclarecimentos em relação às especificações relativas à  prestação de serviço de Centro de Operação de Segurança (SOC) avançado, remoto, para monitoramento [...]Leia mais..."
 created: 2026-07-06
 tags:
-  - "clippings"
+  - clippings
+  - conceito
+  - contrato
+  - diretoria
+  - empresa-publica
+organizacao: IPlanRio
 ---
 **CONSULTA PÚBLICA NÚMERO 002/2025**
 

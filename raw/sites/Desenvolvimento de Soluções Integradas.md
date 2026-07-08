@@ -1,14 +1,18 @@
 ---
-type: "source"
-title: "Desenvolvimento de Soluções Integradas"
-source_type: "sites"
-url: "https://iplanrio.prefeitura.rio/desenvolvimento-de-solucoes-integradas/"
+type: source
+title: Desenvolvimento de Soluções Integradas
+source_type: sites
+url: https://iplanrio.prefeitura.rio/desenvolvimento-de-solucoes-integradas/
 published: 2022-07-05
-ingested: "2026-07-06T15:29:41-03:00"
-description: "Desenvolvimento de Soluções Integradas Desenvolvimento, implementação e manutenção de sistemas de informações, websites, webservices e aplicativos móveis que visam aprimorar a eficiência da administração pública na sua missão de servir a cidade e em levar agilidade e facilidade ao dia-a-dia do cidadão.   Descrição Abrange todas as disciplinas de engenharia de software, desde o levantamento [...]Leia mais..."
+ingested: 2026-07-06T15:29:41-03:00
+description: Desenvolvimento de Soluções Integradas Desenvolvimento, implementação e manutenção de sistemas de informações, websites, webservices e aplicativos móveis que visam aprimorar a eficiência da administração pública na sua missão de servir a cidade e em levar agilidade e facilidade ao dia-a-dia do cidadão.   Descrição Abrange todas as disciplinas de engenharia de software, desde o levantamento [...]Leia mais...
 created: 2026-07-06
 tags:
-  - "clippings"
+  - clippings
+  - diretoria
+  - empresa-publica
+  - projeto
+organizacao: IPlanRio
 ---
 Desenvolvimento, implementação e manutenção de sistemas de informações, websites, webservices e aplicativos móveis que visam aprimorar a eficiência da administração pública na sua missão de servir a cidade e em levar agilidade e facilidade ao dia-a-dia do cidadão.
 
